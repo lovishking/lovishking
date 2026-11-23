@@ -8,6 +8,9 @@ Backend engineer building data pipelines, REST APIs and LLM-powered tools with P
 ### 📊 GitHub Activity & Contributions
 
 <p align="center">
+ 
+<img src="https://github-stats-extended.vercel.app/api?username=lovishking&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=lovishking&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovishking&theme=tokyonight&hide_border=true" height="180" alt="GitHub Contribution Streak" />
 </p>
@@ -19,6 +22,8 @@ Backend engineer building data pipelines, REST APIs and LLM-powered tools with P
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovishking&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
 </p>
+
+
 
 ---
 ### Technical Skills :
