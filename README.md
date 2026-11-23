@@ -4,9 +4,6 @@ Backend engineer building data pipelines, REST APIs and LLM-powered tools with P
  
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lovishking&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total GitHub Contributions" />
-</p>
 
 
 ---
